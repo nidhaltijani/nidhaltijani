@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently a Business Intelligence student
+- 🔭 I’m currently a Data Consultant
 - 🌱 Data nerd
 
 
